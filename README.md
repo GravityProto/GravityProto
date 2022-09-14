@@ -1,6 +1,8 @@
 - 👋 sup, I’m Gravity
-- interested in Games, Art, and all tech related
-- currently learning Programming(Python) and Ethical Hacking, also while sometimes praticing drawing
+- interested in Game Design and all that is tech related
+- currently learning System analysis and development in IFPI and Ethical Hacking
+- while having eletric guitar, art, game making
+- loves tabletop and eletronic gaming (DnD, Metal Gear and Persona are my addiction)
 - 📫 you can reach me through discord since its the one i most check: Gravity Fox#7827
 
 <!---
