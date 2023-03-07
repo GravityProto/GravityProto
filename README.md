@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 <h3>
-<a href="https://twitter.com/KobaruAli">
+<a href="https://twitter.com/KobaruAli" target="_blank">
 - Profile art by: @KobaruAli
   </a>
 </h3>
