@@ -5,12 +5,17 @@
   <a href="https://www.linkedin.com/in/pasilvacosta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br>
   <a href="https://www.youtube.com/channel/UCzpbFbt7rzu4jJFyvdLFKYw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/GravidadeFox">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+<div align=center>
+  (Mostly memes for now)&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  (Mostly art i repost)
 </div>
 <h1>
  suuuup, I’m Gravity
@@ -37,6 +42,6 @@
 </div>
 <h3>
 <a href="https://twitter.com/KobaruAli">
-- Profile art by: @KobaruAli
+- Profile art by my great friend: @KobaruAli
   </a>
 </h3>
