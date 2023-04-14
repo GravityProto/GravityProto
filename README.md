@@ -25,7 +25,7 @@
 - 📫 you can reach me through discord since its the one i most check: Gravity Fox#7827
 
 <h2>
-- Languages:
+- Languages and Systems:
 </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
