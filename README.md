@@ -27,7 +27,7 @@
 - currently learning System analysis and development in IFPI and Ethical Hacking
 - while learning eletric guitar, art and game making
 - loves tabletop and eletronic gaming (DnD, Metal Gear, Persona and Va-11 Hall-a are my addiction)
-- 📫 you can reach me through discord since its the one i most check: Gravity Fox#7827
+- 📫 you can reach me through discord since its the one i most check: gravityfox
 
 <h2>
 - Languages and Systems:
